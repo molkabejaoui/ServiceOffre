@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/service-offre-emploi-0.0.1-SNAPSHOT.jar
